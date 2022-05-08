@@ -13,6 +13,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
+          <br />
           This project was coded by Sophie Joe and is{" "}
           <a
             href="https://github.com/sophie-joe/react-dictionary"
