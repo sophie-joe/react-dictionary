@@ -1,0 +1,12 @@
+.Dictionary section {
+  background-color: rgb(231, 237, 243);
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px 0;
+  font-family: monospace;
+}
+
+.Dictionary .hint {
+  font-size: small;
+  color: gray;
+}
