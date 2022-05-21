@@ -1,4 +1,6 @@
 .App {
   color: green;
   text-align: left;
+  max-width: 1250px;
+  margin: 0 auto;
 }
